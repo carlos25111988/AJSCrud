@@ -1,2 +1,2 @@
 # AJScrud
-API de cadastro básico com Angular e node JS.
+API de cadasto básico de produtos com Angular JS
